@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10",
+  "header": {
+    "description": "Minecraft Bedrock Bosses Mod",
+    "name": "Bosses Mod",
+    "uuid": "unique-manifest-uuid",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0],
+    "author": "Luck"
+  },
+  "modules": [
+    {
+      "description": "Bosses Mod",
+      "type": "data",
+      "uuid": "unique-data-uuid",
+      "version": [1, 0, 0]
+    }
+  ]
+}
