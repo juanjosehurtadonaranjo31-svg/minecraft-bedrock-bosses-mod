@@ -1,18 +1,24 @@
 {
-  "format_version": "1.10",
+  "format_version": 2,
   "header": {
-    "description": "Minecraft Bedrock Bosses Mod",
+    "description": "Minecraft Bedrock Bosses Mod - Created by Luck",
     "name": "Bosses Mod",
-    "uuid": "unique-manifest-uuid",
+    "uuid": "12345678-1234-1234-1234-123456789abc",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0],
+    "min_engine_version": [1, 19, 0],
     "author": "Luck"
   },
   "modules": [
     {
-      "description": "Bosses Mod",
+      "description": "Bosses Mod Behavior Pack",
       "type": "data",
-      "uuid": "unique-data-uuid",
+      "uuid": "87654321-4321-4321-4321-cba987654321",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Bosses Mod Resource Pack",
+      "type": "resources",
+      "uuid": "11111111-2222-3333-4444-555555555555",
       "version": [1, 0, 0]
     }
   ]
